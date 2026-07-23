@@ -6,7 +6,7 @@
 </head>
 <body>
 <h2>Bấm để cài đặt ứng dụng</h2>
-<a href="itms-services://?action=download-manifest&url=https://website.khoindvn.io.vn/plists/jqazbhjbbxom.plist">
+<a href="itms-services://?action=download-manifest&url=https://website.khoindvn.io.vn/plists/fcatwyjwiasm.plist">
 Cài đặt ứng dụng
 </a>
 </body>
